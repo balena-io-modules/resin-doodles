@@ -1,7 +1,6 @@
-colors = require 'colors/safe'
-colors.enabled = true
+chalk = require 'chalk'
 
-{ blue, bold, red, white } = colors
+{ blue, bold, red, white } = chalk
 
 module.exports = bold([
 	blue('    \\')
