@@ -1,6 +1,6 @@
 {
   "name": "resin-doodles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Resin doodles for text based happiness, via unicorns!",
   "main": "build/index.js",
   "types": "lib/index.d.ts",
@@ -24,6 +24,6 @@
     "gulp-sourcemaps": "^3.0.0"
   },
   "versionist": {
-    "publishedAt": "2022-01-11T15:49:18.170Z"
+    "publishedAt": "2022-01-12T09:33:09.081Z"
   }
 }
