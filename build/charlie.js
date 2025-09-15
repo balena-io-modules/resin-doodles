@@ -1,9 +1,9 @@
 (function() {
-  var chalk;
+  var ansis;
 
-  chalk = require('chalk');
+  ansis = require('ansis');
 
-  module.exports = chalk.bold.blue(`    \\
+  module.exports = ansis.bold.blue(`    \\
      \\
       \\\\
        \\\\

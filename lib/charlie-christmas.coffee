@@ -1,6 +1,6 @@
-chalk = require 'chalk'
+ansis = require 'ansis'
 
-{ blue, bold, red, white } = chalk
+{ blue, bold, red, white } = ansis
 
 module.exports = bold([
 	blue('    \\')
