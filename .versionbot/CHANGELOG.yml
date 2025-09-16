@@ -1,4 +1,15 @@
 - commits:
+    - subject: Replace `chalk` with `ansis`
+      hash: 47c141abb9558b7f6c6b4a2ed00ed4e2350558d7
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Matthew Yarmolinsky
+  version: 0.2.2
+  title: ""
+  date: 2025-09-16T17:50:28.573Z
+- commits:
     - subject: Add dummy `test` script for flowzone
       hash: df592981026aa3d8fc486ac7fbc3c9ec2bd6b038
       body: ""
