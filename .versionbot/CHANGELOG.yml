@@ -1,0 +1,52 @@
+- commits:
+    - subject: Add dummy `test` script for flowzone
+      hash: df592981026aa3d8fc486ac7fbc3c9ec2bd6b038
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Matthew Yarmolinsky
+    - subject: Replace balenaCI with flowzone
+      hash: 0172f9d1ea11c82bdd400d674c6c737016f2488d
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Matthew Yarmolinsky
+  version: 0.2.1
+  title: ""
+  date: 2025-09-16T17:09:02.010Z
+- version: 0.2.0
+  date: 2022-01-12T12:40:53Z
+  commits:
+    - hash: fc2c6893acab914cae31258fa0abf40b3f2a7727
+      author: Scott Lowe
+      footers:
+        change-type: minor
+        signed-off-by: Scott Lowe <scott@balena.io>
+      subject: Force version-bot to bump version
+      body: ""
+    - hash: 1a9250a59d2b88dd3b10d83c661f1dedda46c464
+      author: Scott Lowe
+      footers:
+        change-type: minor
+        signed-off-by: Scott Lowe <scott@balena.io>
+      subject: Replace package `color` with `chalk`
+      body: |-
+        Update packages
+        Add README.md
+        Add .gitignore
+    - hash: a6f2e13c05eaf723169bd9d348b564da3039f0b9
+      author: Alexis Svinartchouk
+      subject: Fix doodle date logic and remove easter doodle
+      body: ""
+- version: 0.1.0
+  date: 2017-11-06T14:35:00Z
+  commits:
+    - hash: 491b13c82890471416b3faa936a39b6653cb5b96
+      author: Cameron Diver
+      footers:
+        change-type: minor
+        signed-off-by: Cameron Diver <cameron@resin.io>
+      subject: Add typings
+      body: ""
