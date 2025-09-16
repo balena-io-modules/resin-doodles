@@ -17,6 +17,9 @@
   "dependencies": {
     "chalk": "^4.1.2"
   },
+  "scripts": {
+    "test": "printf There are no tests"
+  },
   "devDependencies": {
     "coffee": "^5.4.0",
     "gulp": "^4.0.2",
