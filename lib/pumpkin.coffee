@@ -1,6 +1,6 @@
-chalk = require 'chalk'
+ansis = require 'ansis'
 
-module.exports = chalk.bold.yellow("""
+module.exports = ansis.bold.yellow("""
                     ,--.,
                     |    \\
                     ''^\\   \\
