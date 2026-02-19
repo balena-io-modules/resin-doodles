@@ -1,4 +1,17 @@
 - commits:
+    - subject: "Add id-token: write permission for NPM OIDC publishing"
+      hash: c8c0e90720c22c2317141e25cc450ebd7b465283
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+  version: 0.2.3
+  title: ""
+  date: 2026-02-19T01:55:58.688Z
+- commits:
     - subject: Replace `chalk` with `ansis`
       hash: 47c141abb9558b7f6c6b4a2ed00ed4e2350558d7
       body: ""
